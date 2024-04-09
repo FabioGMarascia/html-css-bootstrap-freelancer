@@ -30,3 +30,11 @@ nav,
 .footer-link {
   color: #1abc9c;
 }
+
+.my-w-3 {
+  width: 3rem;
+}
+
+.deb {
+  border: 2px dashed blue;
+}
